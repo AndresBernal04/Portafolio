@@ -1,0 +1,2 @@
+node_modules
+# Se llama a node_modules porque no queremos que se suba al respositorio, ya que son las carpetas por defecto de node y ocupan mucho espacio en el repo.
